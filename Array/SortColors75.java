@@ -1,6 +1,7 @@
 package Array;
+import java.util.*;
 
-public class  {
+class SortColors75 {
     public static void sortColors(int[] nums) {
         int n = nums.length;
         int[] count = new int[3];
